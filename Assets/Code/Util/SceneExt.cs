@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace Datasacura.TestTask.ZooWorld.Util
+namespace Datasakura.TestTask.ZooWorld.Util
 {
     public static class SceneExt
     {

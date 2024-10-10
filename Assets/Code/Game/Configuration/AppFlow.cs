@@ -1,7 +1,7 @@
-﻿using Datasacura.TestTask.ZooWorld.StateMachine;
+﻿using Datasakura.TestTask.ZooWorld.StateMachine;
 using VContainer;
 
-namespace Datasacura.TestTask.ZooWorld.Config
+namespace Datasakura.TestTask.ZooWorld.Config
 {
     public class AppFlow : DiStateMachine, IAppFlow
     {

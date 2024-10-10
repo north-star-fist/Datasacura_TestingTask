@@ -1,10 +1,10 @@
 ﻿using System.Collections.Generic;
-using Datasacura.TestTask.ZooWorld.Flow;
+using Datasakura.TestTask.ZooWorld.Flow;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
 using VContainer;
 
-namespace Datasacura.TestTask.ZooWorld.Config
+namespace Datasakura.TestTask.ZooWorld.Config
 {
     /// <summary>
     /// Installer that configures <see cref="IAppFlow"/> and registers it in DI container.

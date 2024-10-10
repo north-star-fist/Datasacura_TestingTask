@@ -1,6 +1,6 @@
 ﻿using Cysharp.Threading.Tasks;
 
-namespace Datasacura.TestTask.ZooWorld.Flow
+namespace Datasakura.TestTask.ZooWorld.Flow
 {
     public interface IGameLevelSceneProvider
     {

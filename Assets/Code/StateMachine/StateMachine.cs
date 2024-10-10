@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Threading;
 using Cysharp.Threading.Tasks;
 
-namespace Datasacura.TestTask.ZooWorld.StateMachine
+namespace Datasakura.TestTask.ZooWorld.StateMachine
 {
     /// <summary>
     /// Default implementation of <see cref="IStateMachine"/> interface.

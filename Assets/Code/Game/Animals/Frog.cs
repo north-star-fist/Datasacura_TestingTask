@@ -2,7 +2,7 @@
 using R3;
 using UnityEngine;
 
-namespace Datasacura.TestTask.ZooWorld
+namespace Datasakura.TestTask.ZooWorld
 {
     [RequireComponent(typeof(Rigidbody))]
     public class Frog : AAnimal

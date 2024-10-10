@@ -1,4 +1,4 @@
-﻿namespace Datasacura.TestTask.ZooWorld
+﻿namespace Datasakura.TestTask.ZooWorld
 {
     public readonly struct GameStats
     {

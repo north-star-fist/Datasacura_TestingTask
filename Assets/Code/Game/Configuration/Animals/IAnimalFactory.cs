@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Datasacura.TestTask.ZooWorld
+namespace Datasakura.TestTask.ZooWorld
 {
     public interface IAnimalFactory
     {

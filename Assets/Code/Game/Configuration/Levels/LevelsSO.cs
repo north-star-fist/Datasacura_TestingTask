@@ -2,7 +2,7 @@
 using System.Linq;
 using UnityEngine;
 
-namespace Datasacura.TestTask.ZooWorld.Config
+namespace Datasakura.TestTask.ZooWorld.Config
 {
     [CreateAssetMenu(fileName = "levels", menuName = "Zoo World/Levels/Level Set")]
     public class LevelsSO : ScriptableObject

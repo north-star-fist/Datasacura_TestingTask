@@ -2,15 +2,15 @@
 using System.Collections.Generic;
 using System.Threading;
 using Cysharp.Threading.Tasks;
-using Datasacura.TestTask.ZooWorld.Config;
-using Datasacura.TestTask.ZooWorld.Util;
-using Datasacura.TestTask.ZooWorld.Visuals;
+using Datasakura.TestTask.ZooWorld.Config;
+using Datasakura.TestTask.ZooWorld.Util;
+using Datasakura.TestTask.ZooWorld.Visuals;
 using R3;
 using UnityEngine;
 using UnityEngine.Pool;
 using VContainer;
 
-namespace Datasacura.TestTask.ZooWorld
+namespace Datasakura.TestTask.ZooWorld
 {
     /// <summary>
     /// Scene object that manages the game.

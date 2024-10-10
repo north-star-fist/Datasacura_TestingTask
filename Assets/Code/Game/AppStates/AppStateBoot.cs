@@ -1,9 +1,9 @@
 ﻿using Cysharp.Threading.Tasks;
-using Datasacura.TestTask.ZooWorld.Config;
-using Datasacura.TestTask.ZooWorld.StateMachine;
+using Datasakura.TestTask.ZooWorld.Config;
+using Datasakura.TestTask.ZooWorld.StateMachine;
 using VContainer;
 
-namespace Datasacura.TestTask.ZooWorld.Flow
+namespace Datasakura.TestTask.ZooWorld.Flow
 {
     public class AppStateBoot : IState
     {

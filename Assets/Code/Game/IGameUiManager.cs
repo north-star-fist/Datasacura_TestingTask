@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using Cysharp.Threading.Tasks;
-using Datasacura.TestTask.ZooWorld.Config;
+using Datasakura.TestTask.ZooWorld.Config;
 using R3;
 
-namespace Datasacura.TestTask.ZooWorld
+namespace Datasakura.TestTask.ZooWorld
 {
     public interface IGameUiManager
     {

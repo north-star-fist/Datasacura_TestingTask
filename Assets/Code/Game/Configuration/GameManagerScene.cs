@@ -2,7 +2,7 @@
 using VContainer;
 using VContainer.Unity;
 
-namespace Datasacura.TestTask.ZooWorld.Config
+namespace Datasakura.TestTask.ZooWorld.Config
 {
     public class GameManagerScene : LifetimeScope
     {

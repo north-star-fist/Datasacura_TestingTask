@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Threading;
 using Cysharp.Threading.Tasks;
-using Datasacura.TestTask.ZooWorld.Config;
-using Datasacura.TestTask.ZooWorld.StateMachine;
+using Datasakura.TestTask.ZooWorld.Config;
+using Datasakura.TestTask.ZooWorld.StateMachine;
 using R3;
 using UnityEngine;
 
-namespace Datasacura.TestTask.ZooWorld.Flow
+namespace Datasakura.TestTask.ZooWorld.Flow
 {
     public class AppStateGame : IState
     {

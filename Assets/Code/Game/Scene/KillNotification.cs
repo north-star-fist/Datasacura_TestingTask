@@ -3,7 +3,7 @@ using Cysharp.Threading.Tasks;
 using TMPro;
 using UnityEngine;
 
-namespace Datasacura.TestTask.ZooWorld.Visuals
+namespace Datasakura.TestTask.ZooWorld.Visuals
 {
     public class KillNotification : MonoBehaviour
     {

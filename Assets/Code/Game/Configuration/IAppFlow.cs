@@ -1,6 +1,6 @@
-﻿using Datasacura.TestTask.ZooWorld.StateMachine;
+﻿using Datasakura.TestTask.ZooWorld.StateMachine;
 
-namespace Datasacura.TestTask.ZooWorld.Config
+namespace Datasakura.TestTask.ZooWorld.Config
 {
     public interface IAppFlow : IStateMachine
     {

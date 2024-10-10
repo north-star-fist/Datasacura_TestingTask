@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using VContainer;
 
-namespace Datasacura.TestTask.ZooWorld.Config
+namespace Datasakura.TestTask.ZooWorld.Config
 {
     [CreateAssetMenu(fileName = "Levels Installer", menuName = "Zoo World/DI Installers/Levels")]
     public class LevelsInstaller : AScriptableInstaller

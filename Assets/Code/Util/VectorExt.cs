@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Datasacura.TestTask.ZooWorld.Util
+namespace Datasakura.TestTask.ZooWorld.Util
 {
 
     public static class VectorExt

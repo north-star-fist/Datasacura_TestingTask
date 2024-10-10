@@ -2,7 +2,7 @@
 using UnityEditor.IMGUI.Controls;
 using UnityEngine;
 
-namespace Datasacura.TestTask.ZooWorld
+namespace Datasakura.TestTask.ZooWorld
 {
 
     [CustomEditor(typeof(GameManager))]

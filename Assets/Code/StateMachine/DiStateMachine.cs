@@ -1,6 +1,6 @@
 ﻿using VContainer;
 
-namespace Datasacura.TestTask.ZooWorld.StateMachine
+namespace Datasakura.TestTask.ZooWorld.StateMachine
 {
     public class DiStateMachine : StateMachine
     {

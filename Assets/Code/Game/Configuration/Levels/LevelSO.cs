@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.AddressableAssets;
 
-namespace Datasacura.TestTask.ZooWorld.Config
+namespace Datasakura.TestTask.ZooWorld.Config
 {
     [CreateAssetMenu(fileName = "level", menuName = "Zoo World/Levels/Level")]
     public class LevelSO : ScriptableObject

@@ -1,8 +1,8 @@
-﻿using Datasacura.TestTask.ZooWorld.Util;
+﻿using Datasakura.TestTask.ZooWorld.Util;
 using R3;
 using UnityEngine;
 
-namespace Datasacura.TestTask.ZooWorld
+namespace Datasakura.TestTask.ZooWorld
 {
     public abstract class AAnimal : MonoBehaviour, IAnimal
     {

@@ -1,9 +1,9 @@
-﻿using Datasacura.TestTask.ZooWorld.Flow;
+﻿using Datasakura.TestTask.ZooWorld.Flow;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
 using VContainer;
 
-namespace Datasacura.TestTask.ZooWorld.Config
+namespace Datasakura.TestTask.ZooWorld.Config
 {
     [CreateAssetMenu(
         fileName = "GameManager Scene Provider Installer",

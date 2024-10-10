@@ -1,4 +1,4 @@
-﻿namespace Datasacura.TestTask.ZooWorld.Config
+﻿namespace Datasakura.TestTask.ZooWorld.Config
 {
     public static class AddressablesTags
     {

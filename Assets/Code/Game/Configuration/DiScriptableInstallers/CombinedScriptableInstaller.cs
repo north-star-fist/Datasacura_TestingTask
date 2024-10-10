@@ -2,7 +2,7 @@
 using UnityEngine;
 using VContainer;
 
-namespace Datasacura.TestTask.ZooWorld.Config
+namespace Datasakura.TestTask.ZooWorld.Config
 {
 
     [CreateAssetMenu(

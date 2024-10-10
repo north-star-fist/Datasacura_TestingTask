@@ -2,13 +2,13 @@
 using System.Linq;
 using System.Threading;
 using Cysharp.Threading.Tasks;
-using Datasacura.TestTask.ZooWorld.Config;
+using Datasakura.TestTask.ZooWorld.Config;
 using R3;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Datasacura.TestTask.ZooWorld
+namespace Datasakura.TestTask.ZooWorld
 {
     public class GameUiManager : MonoBehaviour, IGameUiManager
     {

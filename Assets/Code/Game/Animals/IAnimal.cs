@@ -1,7 +1,7 @@
 ﻿using R3;
 using UnityEngine;
 
-namespace Datasacura.TestTask.ZooWorld
+namespace Datasakura.TestTask.ZooWorld
 {
     public interface IAnimal
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using Cysharp.Threading.Tasks;
 
-namespace Datasacura.TestTask.ZooWorld.StateMachine
+namespace Datasakura.TestTask.ZooWorld.StateMachine
 {
     public interface IStateMachine
     {

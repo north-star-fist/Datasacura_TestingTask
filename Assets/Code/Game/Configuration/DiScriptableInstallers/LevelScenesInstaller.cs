@@ -1,8 +1,8 @@
-﻿using Datasacura.TestTask.ZooWorld.Flow;
+﻿using Datasakura.TestTask.ZooWorld.Flow;
 using UnityEngine;
 using VContainer;
 
-namespace Datasacura.TestTask.ZooWorld.Config
+namespace Datasakura.TestTask.ZooWorld.Config
 {
     [CreateAssetMenu(fileName = "Level Provider Installer", menuName = "Zoo World/DI Installers/Level Provider")]
     public class LevelScenesInstaller : AScriptableInstaller

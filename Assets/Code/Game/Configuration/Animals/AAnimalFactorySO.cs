@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Datasacura.TestTask.ZooWorld.Config
+namespace Datasakura.TestTask.ZooWorld.Config
 {
     /// <summary>
     /// Animal configuration (and factory).

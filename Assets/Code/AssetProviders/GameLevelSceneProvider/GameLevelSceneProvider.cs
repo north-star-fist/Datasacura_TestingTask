@@ -1,14 +1,14 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using Cysharp.Threading.Tasks;
-using Datasacura.TestTask.ZooWorld.Config;
+using Datasakura.TestTask.ZooWorld.Config;
 using UnityEngine.AddressableAssets;
 using UnityEngine.ResourceManagement.AsyncOperations;
 using UnityEngine.ResourceManagement.ResourceProviders;
 using UnityEngine.SceneManagement;
 using VContainer;
 
-namespace Datasacura.TestTask.ZooWorld.Flow
+namespace Datasakura.TestTask.ZooWorld.Flow
 {
 
     public class GameLevelSceneProvider : IGameLevelSceneProvider

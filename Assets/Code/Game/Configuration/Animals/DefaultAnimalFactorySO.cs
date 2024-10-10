@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Pool;
 
-namespace Datasacura.TestTask.ZooWorld.Config
+namespace Datasakura.TestTask.ZooWorld.Config
 {
     [CreateAssetMenu(fileName = "Animal", menuName = "Zoo World/Animals/Geneic Animal")]
     public class DefaultAnimalFactorySO : AAnimalFactorySO

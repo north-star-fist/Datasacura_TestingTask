@@ -1,10 +1,10 @@
 ﻿using System.Threading;
 using Cysharp.Threading.Tasks;
-using Datasacura.TestTask.ZooWorld.Flow;
+using Datasakura.TestTask.ZooWorld.Flow;
 using VContainer;
 using VContainer.Unity;
 
-namespace Datasacura.TestTask.ZooWorld.Config
+namespace Datasakura.TestTask.ZooWorld.Config
 {
     /// <summary>
     /// Entry point of the application logic (See VContainer docs).
